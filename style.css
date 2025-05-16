@@ -1,0 +1,29 @@
+.cornav{
+    background-color: rgb(13, 46, 192);
+}
+
+.flex1{
+    background-color:rgb(13, 46, 192) ;
+
+}
+.borda{
+    border-radius: 10px;
+    margin: 9px 0 100px 100px;
+    display: inline;
+}
+
+.a{
+    display: block;
+}
+
+.branco{
+    color: white;
+}
+
+.margin{
+    margin-top: 80px;
+}
+
+.ver{
+    color: red;
+}
